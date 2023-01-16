@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding:30px;
+  }
+  h1{
+    color: red;
+   
+  }
+  img,h1{
+    width: 700px;
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 5px;
+  }
+
+  p{
+    text-align: justify;
+    text-indent: 30px;
+    text-align: center;
+  }
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    color: red;
+  }
+  h2,h3{
+    text-align: center;
+    color:rgb(7, 99, 186)
+  }
+
+  table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    
+  }
+  th{
+    background-color: red;
+    border: 1px solid black;
+    padding: 8px;
+  }
+  td{
+    color: red;
+    border: 1px solid black;
+    padding: 8px;
+  }
+
